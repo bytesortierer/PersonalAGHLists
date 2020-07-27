@@ -1,22 +1,7 @@
 ! Title: bytesortierer - regex.txt
-! Description: Regular expressions generated from from Motti ( https://github.com/mmotti/adguard-home-filters ) for use with AdGuard Home. Big thanks!!
+! Description: Comming Soon
 ! Last Modified: 27-07-2020 23:50 BST
 !!
-/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
-/^(.+[_.-])?telemetry[_.-]/
-/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-/^adim(age|g)s?[0-9]*[_.-]/
-/^adtrack(er|ing)?[0-9]*[_.-]/
-/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
-/^aff(iliat(es?|ion))?[_.-]/
-/^analytics?[_.-]/
-/^banners?[_.-]/
-/^beacons?[0-9]*[_.-]/
-/^count(ers?)?[0-9]*[_.-]/
-/^mads\./
-/^pixels?[-.]/
-/^stat(s|istics)?[0-9]*[_.-]/
-/^track(ing)?[0-9]*[_.-]/
 /sendgrid\.net/
 /(\.cn$|\.ru$|\.co$|\.vn$)/
 /^wpad\./
