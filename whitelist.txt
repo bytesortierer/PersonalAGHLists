@@ -2,12 +2,6 @@
 ! Description: Comming Soon
 ! Last Modified: 27-07-2020 23:50 BST
 !!
-/sendgrid\.net/
-/(\.cn$|\.ru$|\.co$|\.vn$)/
-/^wpad\./
-/\.link$/
-/^(www[0-9]*\.)?xn--/
-/^(.+[_.-])?amp(project)?\./
 @@||xn--allestrungen-9ib.de^$important
 @@||xn--brckentage-beb.info^$important
 #Apple Host-Dokumentation: https://support.apple.com/de-de/HT210060 und https://support.apple.com/de-de/HT201999
