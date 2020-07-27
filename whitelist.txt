@@ -1,7 +1,6 @@
 ! Title: bytesortierer - regex.txt
-! Description: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
+! Description: Regular expressions generated from from Motti ( https://github.com/mmotti/adguard-home-filters ) for use with AdGuard Home. Big thanks!!
 ! Last Modified: 27-07-2020 23:50 BST
-! Count: 15
 !!
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
