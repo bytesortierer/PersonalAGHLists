@@ -1,9 +1,10 @@
 ! Title: bytesortierer - whitelist.txt
-! Description: Comming Soon
-! Last Modified: 27-07-2020 23:50 BST
+! Description: My Whitelist
+! Last Modified: 01-10-2020 23:50 BST
 !!
-@@||xn--allestrungen-9ib.de^$important
-@@||xn--brckentage-beb.info^$important
+@@||xn--allestrungen-9ib.de^
+@@||xn--brckentage-beb.info^
+
 #Apple Host-Dokumentation: https://support.apple.com/de-de/HT210060 und https://support.apple.com/de-de/HT201999
 @@||icloud-content.com
  @@||icloud.com
@@ -24,6 +25,7 @@
  @@||keyvalueservice.fe.apple-dns.net
  @@||se-edge.itunes.apple.com
  @@||valid.apple.com
+ 
  #MicrosoftOneDrive
  @@||1drv.com
  @@||1drv.ms
@@ -35,6 +37,7 @@
  @@||www.1drv.com
  @@||www.1drv.ms
  @@||www.onedrive.com
+ 
  #Microsoft
  @@||outlook.com
  @@||www.outlook.com
@@ -96,12 +99,14 @@
  @@||www.windowsmedia.com
  @@||www.windowsphone.com
  @@||self.events.data.microsoft.com
+ 
  #Apple Host-Dokumentation: https://support.apple.com/de-de/HT210060 und https://support.apple.com/de-de/HT201999
  @@||itunes-apple.com.akadns.net
  @@||itunes.apple.com
  @@||itunes.apple.com.edgesuite.net
  @@||itunes.com
  @@||www.itunes.com
+ 
  #Playstation
  @@||playstation.com
  @@||playstation.net
