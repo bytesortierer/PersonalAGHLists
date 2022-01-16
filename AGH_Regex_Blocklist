@@ -1,3 +1,4 @@
+!Thanks to https://github.com/mmotti/adguard-home-filters
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
@@ -12,6 +13,7 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+!Thanks to https://github.com/CipherOps/AdGuardBlocklists
 /(ads|logs|cloudservices).roku.com$/
 /^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.co/
 /([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
