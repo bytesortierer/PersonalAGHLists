@@ -19,3 +19,11 @@
 /((^)|(.))adsdk./
 /((^)|(.))adserv./
 /((^)|(.))tracking./
+/((^)|(.))doubleclick((^)|(.))/
+/([A-Za-z0-9.-]*\.)?doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})/
+/([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})/
+/([A-Za-z0-9.-]*\.)?advertising\.com/
+/((^)|(.))crashlytics((^)|(.))/
+/([A-Za-z0-9.-]*\.)?info\.yahoo\.com/
+/([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
+/([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
