@@ -14,14 +14,8 @@
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 !Thanks to https://github.com/CipherOps/AdGuardBlocklists/blob/main/REGEX.txt
-/((^)|(.))metric./
-/((^)|(.))telemetry./
 /((^)|(.))analytic./
 /((^)|(.))adchoice./
 /((^)|(.))adsdk./
 /((^)|(.))adserv./
 /((^)|(.))tracking./
-/((^)|(.))events./
-/((^)|(.))smaato./
-/((^)|(.))mopub./
-/((^)|(.))app-measurement((^)|(.))/
