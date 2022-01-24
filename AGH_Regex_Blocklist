@@ -13,7 +13,7 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-
+!Thanks to https://github.com/CipherOps/AdGuardBlocklists/blob/main/REGEX.txt
 /(ads|logs|cloudservices).roku.com$/
 /^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.co/
 /([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
