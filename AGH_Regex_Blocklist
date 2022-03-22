@@ -13,3 +13,52 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+/(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/
+/(\.adult$|\.cam$|\.gay$|\.porn$|\.sex$|\.sexy$|\.tube$|\.webcam$|\.xxx$)/
+/(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.ml$|\.poker$|\.surf$|\.top$)/
+
+# Bugsnag
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+
+# Doubleclick.net
+||ad.doubleclick.net^
+||doubleclick.net^
+
+# FastClick
+||cdn.fastclick.net^
+||media.fastclick.net^
+
+# FreshMarketer
+||freshmarketer.com^
+
+
+# Hotjar
+||hotjar.com^
+||static.hotjar.com^
+
+# Luckyorange
+||cdn.luckyorange.com^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||upload.luckyorange.net^
+||w1.luckyorange.com^
+
+# Media.net
+||adservetx.media.net^
+||media.net^
+||static.media.net^
+
+# MouseFlow
+||a.mouseflow.com^
+||mouseflow.com^
+
+# Sentry
+||browser.sentry-cdn.com^
+
+# Wordpress
+||stats.wp.com^
+
+# YouTube
+||ads.youtube.com^
+||youtube.cleverads.vn^
