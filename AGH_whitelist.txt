@@ -1,8 +1,8 @@
 ! Title: bytesortierer - whitelist.txt
 ! Description: My Whitelist
-! Last Modified: 01-10-2020 23:50 BST
+! Last Modified: 22-03-2022
 
-#Tanja Freigaben
+#tkr
 @@||xn--allestrungen-9ib.de^
 @@||xn--brckentage-beb.info^
 @@||otto.de^
@@ -10,6 +10,7 @@
 @@||adler.de^
 @@||meinprospekt.de^
 @@||adlermode.com^
-#mkr_freigaben
+
+#mkr
 @@||api.hidrive.ionos.com^$important
 @@||hidrive.ionos.com^$important
