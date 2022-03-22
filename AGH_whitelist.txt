@@ -2,5 +2,14 @@
 ! Description: My Whitelist
 ! Last Modified: 01-10-2020 23:50 BST
 
+#Tanja Freigaben
 @@||xn--allestrungen-9ib.de^
 @@||xn--brckentage-beb.info^
+@@||otto.de^
+@@||tchibo.de^
+@@||adler.de^
+@@||meinprospekt.de^
+@@||adlermode.com^
+#mkr_freigaben
+@@||api.hidrive.ionos.com^$important
+@@||hidrive.ionos.com^$important
