@@ -19,6 +19,7 @@
 /^duckdns\.org$/
 /^wpad\./
 /.*(xn--).*/
+/watson\..*\.microsoft\.com/
 
 !Thanks to me
 #Abused TLD
