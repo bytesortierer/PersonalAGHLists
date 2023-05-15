@@ -25,7 +25,8 @@
 #Abused TLD
 /(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/
 /(\.adult$|\.cam$|\.gay$|\.porn$|\.sex$|\.sexy$|\.tube$|\.webcam$|\.xxx$)/
-/(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.ml$|\.poker$|\.surf$|\.top$)/
+/(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.ml$|\.poker$|\.surf$|\.top$)|\.zip$)/
+
 
 # Bugsnag
 ||notify.bugsnag.com^
