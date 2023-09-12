@@ -17,9 +17,12 @@
 !Thanks to https://github.com/RPiList/specials/blob/master/regex.list
 /^sendgrid\.net$/
 /^duckdns\.org$/
-/^wpad\./
+#/^wpad\./
 /.*(xn--).*/
 /watson\..*\.microsoft\.com/
+
+# Sperrt Suchmaschinen-Schrott Domains:
+(softonic\.com$|uptodown\.com$|malavida\.com$)
 
 !Thanks to me
 #Abused TLD
