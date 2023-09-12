@@ -22,7 +22,9 @@
 /watson\..*\.microsoft\.com/
 
 # Sperrt Suchmaschinen-Schrott Domains:
-/(softonic\.com$|uptodown\.com$|malavida\.com$)/
+/(softonic\.com$/
+/uptodown\.com$/
+/malavida\.com$)/
 
 !Thanks to me
 #Abused TLD
