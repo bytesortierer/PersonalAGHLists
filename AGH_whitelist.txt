@@ -12,5 +12,5 @@
 @@||adlermode.com^
 
 #mkr
-@@||api.hidrive.ionos.com^$important
-@@||hidrive.ionos.com^$important
+@@||api.hidrive.ionos.com^
+@@||hidrive.ionos.com^
