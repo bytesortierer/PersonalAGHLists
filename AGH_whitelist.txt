@@ -14,3 +14,5 @@
 #mkr
 @@||api.hidrive.ionos.com^
 @@||hidrive.ionos.com^
+@b||p.typekit.net^
+
